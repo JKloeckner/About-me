@@ -1,7 +1,7 @@
 .back {background-color:rgb(180, 180, 202);}
 .maintex {color: rgb(38, 36, 44); font-size: 18px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 .cartex {color:#7CA5B8;}
-.headfoot {color:#093647; font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: italic; background-color: oldlace;}
+.headfoot {color:#093647; font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: italic; background-color: aliceblue;}
 p{font-size: 15px; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align:center}
 h1{font-size: 30px; font-style: italic; font-weight:bolder ;text-align: center;}
 .center {
@@ -10,4 +10,4 @@ h1{font-size: 30px; font-style: italic; font-weight:bolder ;text-align: center;}
     margin-right: auto;
     width: 50%;
   }
-  ul{font-size: 20px;text-align: center; font-style: italic;}
+  ul{font-size: 20px;text-align: center; font-style: italic; background-color: aliceblue;}
